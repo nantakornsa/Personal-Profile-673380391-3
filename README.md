@@ -11,11 +11,11 @@
 ## Assignments
 | # | ชื่องาน| ไฟล์ / ลิงก์ |
 |---|---------|--------------|
-| 01 | Essay Link | [View](./Assignments/Assignment_1.pdf) |
-| 02 | Topology | [View](./Assignments/Assignment_2.pdf) |
-| 03 | Not_Simple | [View](./Assignments/Assignment_3) |
-| 04 | TCP-UDP | [View](./Assignments/Assignment_4.pdf) |
-| 05 | New Network | [View](./Assignments/New_Network_Technology.pdf) |
+| 01 | Essay Link | [View](./Assignment/Assignment_1.pdf) |
+| 02 | Topology | [View](./Assignment/Assignment_2.pdf) |
+| 03 | Not_Simple | [View](./Assignment/Assignment_3) |
+| 04 | TCP-UDP | [View](./Assignment/Assignment_4.pdf) |
+| 05 | New Network | [View](./Assignment/New_Network_Technology.pdf) |
 
 ---
 
