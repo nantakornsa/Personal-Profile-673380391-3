@@ -11,24 +11,24 @@
 ## Assignments
 | # | ชื่องาน| ไฟล์ / ลิงก์ |
 |---|---------|--------------|
-| 01 | Essay Link | [View](./Assingment/Assignment_1.pdf) |
-| 02 | Topology | [View](./Assingment/Assignment_2.pdf) |
-| 03 | Not_Simple | [View](./Assingment/Assignment_3) |
-| 04 | TCP-UDP | [View](./Assingment/Assignment_4.pdf) |
-| 05 | New Network | [View](./Assingment/New_Network_Technology.pdf) |
+| 01 | Essay Link | [View](./assignments/Assignment1.pdf) |
+| 02 | Topology | [View](./assignments/Assignment2.pdf) |
+| 03 | Not_Simple | [View](./assignments/Assignment3) |
+| 04 | TCP-UDP | [View](./assignments/Assignment4.pdf) |
+| 05 | New Network | [View](./assignments/New_Network_Technology.pdf) |
 
 ---
 
 ## Lab Reports
 | # | ชื่อ Lab | ไฟล์ / ลิงก์ |
 |---|----------|--------------|
-| LAB 1 | Lab Report 1 | [View](./Labs/Lab_1) |
-| LAB 2 | Lab Report 2 | [View](./Labs/Lab_2) |
-| LAB 3 | Lab Report 3 | [View](./Labs/Lab_3) |
-| LAB 4 | Lab Report 4 | [View](./Labs/Lab_4) |
-| LAB 5 | Lab Report 5 | [View](./Labs/Lab_5) |
-| LAB 6 | Lab Report 6 | [View](./Labs/Lab_6) |
-| LAB 7 | Lab Report 7 | [View](./Labs/Lab_7) |
+| LAB 1 | Lab Report 1 | [View](./labs/Lab1.pdf) |
+| LAB 2 | Lab Report 2 | [View](./labs/Lab2.pdf) |
+| LAB 3 | Lab Report 3 | [View](./labs/Lab3.pdf) |
+| LAB 4 | Lab Report 4 | [View](./labs/Lab4.pdf) |
+| LAB 5 | Lab Report 5 | [View](./labs/Lab5.pdf) |
+| LAB 6 | Lab Report 6 | [View](./labs/Lab6.pdf) |
+| LAB 7 | Lab Report 7 | [View](./labs/Lab7.pdf) |
 
 ---
 
@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./Certificates/Certificates.jpg" alt="Certificates 1" width="100%">
+      <img src="./certificates/Certificates.jpg" alt="Certificates 1" width="100%">
     </td>
   </tr>
 </table>
@@ -53,3 +53,9 @@
 <div align="center">
   <sub>Network & Systems Portfolio · 2025–2026</sub>
 </div>
+
+<div align="center">
+  <sub>Network & Systems Portfolio · 2025–2026</sub>
+</div>
+
+---
