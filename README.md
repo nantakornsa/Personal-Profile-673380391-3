@@ -8,7 +8,7 @@
 
 ---
 
-##Assignments
+## Assignments
 | # | ชื่องาน| ไฟล์ / ลิงก์ |
 |---|---------|--------------|
 | 01 | Essay Link | [View](./Assignments/Assignment_1.pdf) |
@@ -19,7 +19,7 @@
 
 ---
 
-##Lab Reports
+## Lab Reports
 | # | ชื่อ Lab | ไฟล์ / ลิงก์ |
 |---|----------|--------------|
 | LAB 1 | Lab Report 1 | [View](./Labs/Lab_1) |
@@ -32,18 +32,18 @@
 
 ---
 
-##Final Project
+## Final Project
 | ชื่อ | ไฟล์ / ลิงก์ |
 |------|--------------|
 | Final Project Artifacts | [View](https://github.com/pawarisa-13/Magnetic-Resonance-Network-MRN-) |
 
 ---
 
-Certificate Gallery
+## Certificate Gallery
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./Certificates/Certificate.jpg" alt="Certificate 1" width="100%">
+      <img src="./Certificates/Certificate.jpg" alt="Certificate" width="100%">
     </td>
   </tr>
 </table>
