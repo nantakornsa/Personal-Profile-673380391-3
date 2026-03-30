@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./Certificates/Certificate.jpg" alt="Certificate" width="100%">
+      <img src="./Certificates/Certificates.jpg" alt="Certificates 1" width="100%">
     </td>
   </tr>
 </table>
